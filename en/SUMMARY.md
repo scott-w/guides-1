@@ -20,7 +20,7 @@
 * [Implementing Routing](approuter/README.md)
   * [Attaching Controllers](approuter/attach_controllers.md)
 * [Handling Data Latency](data_latency/README.md)
-* [Dealing with Complex Persisted Data](persisted_data/README.md)
+* [Handling Persisted Data](persisted_data/README.md)
 * [Nesting Your Views](layoutview/README.md)
 * [Passing Data with Events](messaging/README.md)
 * [DRYing up Your Views](behaviors/README.md)
