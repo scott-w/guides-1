@@ -13,7 +13,7 @@ install Marionette itself.
   2. Create a directory for your JavaScript application
   3. Inside that directory, run `npm init`, giving your application names
   4. Install Browserify: `sudo npm install -g browserify`
-  5. Install Underscore: `npm install --save underscore@1.7.0`
+  5. Install Underscore: `npm install --save underscore`
   6. Install Backbone: `npm install --save backbone`
   7. Install Marionette: `npm install --save backbone.marionette`
   8. Install the Underscore plugin for browserify:
